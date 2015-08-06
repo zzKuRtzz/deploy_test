@@ -5,4 +5,4 @@ Installation
 
 	1. $ sudo pip install github3.py
 	2. Проверка хука Github
-	3. 
+	3. fsdfsd
