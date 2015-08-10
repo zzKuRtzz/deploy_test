@@ -36,3 +36,4 @@ Installation
 	31. gfdgdf
 	32. test tag
 	33. fdsfdsfsdfdsfsdfsdfsdf
+	34. Beta2 4.0.2
