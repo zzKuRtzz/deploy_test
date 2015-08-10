@@ -9,4 +9,3 @@ Installation
 	4. Ololo
 	5. trololo
 	6. fhjsdgjfhs
-	7. dfssdfsd
