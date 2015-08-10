@@ -32,3 +32,5 @@ Installation
 	27. fsdfsd
 	28. dsfsdfsdfsd
 	29. new deployer
+	30. Test
+	
