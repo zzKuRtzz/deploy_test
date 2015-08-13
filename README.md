@@ -41,3 +41,4 @@ Installation
 	36. cool
 	37. dsfsdf
 	38. Release 4.0.5
+	39. Release 4.0.6
